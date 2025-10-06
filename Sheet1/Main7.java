@@ -1,3 +1,4 @@
+//Q3.4
 import java.util.Scanner;
 
 public class Main7 {

@@ -1,3 +1,4 @@
+//Q2.5
 import java.util.Scanner;
 
 public class Main5 {
